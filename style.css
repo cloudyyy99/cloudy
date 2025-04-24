@@ -64,7 +64,7 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(4, 1, 22, 0.575); /* ubah di sini */
+  background: rgba(3, 0, 15, 0.575); 
   z-index: -1;
   pointer-events: none;
 }
